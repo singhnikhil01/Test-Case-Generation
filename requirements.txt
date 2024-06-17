@@ -1,0 +1,6 @@
+torch
+datasets
+transformers
+torchinfo
+peft
+trl
